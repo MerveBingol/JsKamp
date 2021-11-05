@@ -54,7 +54,7 @@ friendNumbers(25,55)
 //Mükemmel sayılar: Tüm bölenlerinin sayısının toplamı sayının kendisine bölünen sayıya mükemmel sayı denir.
 //(6-> 1,2,3   1+2+3=6)
 
-function mükemmelSayi() {
+function mukemmelSayi() {
    
     for (let i=1; i<1000; i++) {
         let toplam=0
@@ -68,7 +68,7 @@ function mükemmelSayi() {
         } 
     }
 }
-mükemmelSayi()
+mukemmelSayi()
 
 //--------------------------------------------------------------------------------------------------------------
 
